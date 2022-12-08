@@ -2,7 +2,7 @@
 
 Have seen people struggle with [eslint](https://eslint.org/) and [prettier](https://prettier.io/) setup, so I create a start project by vite.
 
-Everything is ready to go, just download and start developing!
+Everything is ready to go, just download and start developing 🎉
 
 ## Features
 
